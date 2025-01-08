@@ -1,7 +1,7 @@
 import csv
 import json
 
-class PyParse:
+class Convert:
     def __init__(self, delimiter=',', quotechar='"'):
         self.delimiter = delimiter
         self.quotechar = quotechar
