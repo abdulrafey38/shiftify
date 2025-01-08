@@ -1,7 +1,0 @@
-README
-setup.py
-PyParse.egg-info/PKG-INFO
-PyParse.egg-info/SOURCES.txt
-PyParse.egg-info/dependency_links.txt
-PyParse.egg-info/entry_points.txt
-PyParse.egg-info/top_level.txt
