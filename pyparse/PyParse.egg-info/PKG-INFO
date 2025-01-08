@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: PyParse
+Version: 0.1.0
+Summary: A simple utility for converting CSV to JSON and vice versa
+Home-page: http://github.com/abdulrafey38/pyparse
+Author: Abdul Rafey
+Author-email: abdulrafey38@gmail.com
+Keywords: CSV JSON conversion

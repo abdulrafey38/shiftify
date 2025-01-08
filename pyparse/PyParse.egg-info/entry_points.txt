@@ -1,0 +1,2 @@
+[console_scripts]
+pyparse = pyparse.cli:main
