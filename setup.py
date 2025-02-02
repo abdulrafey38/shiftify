@@ -14,6 +14,7 @@ setup(
         "PyYAML",
         "openpyxl",
         "toml",
+        "yaml",
     ],
     entry_points={
         'console_scripts': [
