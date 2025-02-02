@@ -1,1 +1,2 @@
-from .core import Convert
+from .json_convertor import JSON
+from .csv_convertor import CSV
