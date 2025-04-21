@@ -1,4 +1,4 @@
-# Shiftify
+# Shiftify ![Downloads](https://static.pepy.tech/badge/shiftify)
 
 Shiftify is a versatile Python package that provides efficient tools for converting data between a wide variety of formats. Whether your source data is in CSV or JSON format, Shiftify offers a comprehensive set of conversion tools—including SQL, HTML, plain text, YAML, XML, TSV, TOML, NDJSON, Excel, Markdown, binary (via pickle), and INI formats. It is designed to handle large files efficiently through streaming.
 
