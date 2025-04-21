@@ -11,7 +11,7 @@ setup(
     long_description_content_type='text/markdown',
     install_requires=[
         "ijson",
-        "PyYAML",
+        "PyYAML>=6.0",
         "openpyxl",
         "toml",
         "yaml",
